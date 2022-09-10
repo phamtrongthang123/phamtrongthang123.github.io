@@ -17,7 +17,7 @@ jobs:
 
     - name: Generate the sitemap
       id: sitemap
-      uses: cicirello/generate-sitemap@v1
+      uses: cicirello/generate-sitemap@v1.8.4
       with:
         base-url-path: http://phamtrongthang123.github.io/
 
