@@ -129,3 +129,10 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.news-list {
+  max-height: 240px;
+  overflow-y: auto;
+  line-height: 1.8;
+  padding-right: 12px;
+}
